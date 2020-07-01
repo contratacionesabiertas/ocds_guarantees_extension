@@ -13,7 +13,8 @@
   },
   "codelists": [
     "guaranteeType.csv",
-    "guaranteedObligations.csv"
+    "guaranteedObligations.csv",
+    "+partyRole.csv"
   ],
   "schemas": [
     "release-schema.json"
