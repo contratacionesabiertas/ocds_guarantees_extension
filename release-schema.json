@@ -19,7 +19,7 @@
         },
         "type": {
           "title": "Guarantee type",
-          "description": "Specify the guarantee type for this contract using the [guaranteeType](https://github.com/INAImexico/ocds_guarantees_extension/blob/master/codelists/guaranteeType.csv) codelist.",
+          "description": "Specify the guarantee type for this contract using the [guaranteeType](https://github.com/contratacionesabiertas/ocds_guarantees_extension/blob/master/codelists/guaranteeType.csv) codelist.",
           "type": [
             "string",
             "null"
@@ -38,7 +38,7 @@
         },
         "obligations": {
           "title": "Guaranteed obligations",
-          "description": "Specify the type of obligations that are guaranteed, using the [obligationType](https://github.com/INAImexico/ocds_guarantees_extension/blob/master/codelists/guaranteedObligations.csv) codelist.",
+          "description": "Specify the type of obligations that are guaranteed, using the [obligationType](https://github.com/contratacionesabiertas/ocds_guarantees_extension/blob/master/codelists/guaranteedObligations.csv) codelist.",
           "type": [
             "string",
             "null"
