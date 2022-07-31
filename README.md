@@ -1,9 +1,11 @@
 # Guarantees
 ## Description:
 
-Some procurement processes consider the specification of guarantees in order to ensure compliance with the terms of a contract.
+Some procurement processes consider the specification of guarantees in order to ensure compliance with the terms of a contract, known in the [UNCITRAL glossary](http://www.uncitral.org/pdf/english/texts/procurem/ml-procurement-2011/Glossary-e.pdf) as security for the performance of the procurement contract.
 
 There are many types of guarantees, so we consider the creation of a new extension based on the formats that are required for the Federal Treasury (Mexico).
+
+Tender security, also known as bid security or bid bond, should be modelled using the [Participation Fees extension](https://extensions.open-contracting.org/en/extensions/participation_fee/master/) with `.type` set to 'deposit'.
 
 ## Proposal:
 
